@@ -29,19 +29,7 @@
  <li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-physics/blob/master/ipp(17).pdf" style="text-decoration:none;">The Acceleration of Electrons by Magnetic Induction </a></b></li>
                 <li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-physics/blob/master/ipp(14).pdf" style="text-decoration:none;">Theory of the Alternating-Gradient Synchrotron</a></b></li>                                
                                 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-physics/blob/master/ipp(19).pdf" style="text-decoration:none;">Irrational Exuberance</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-physics/blob/master/ipp(20).pdf" style="text-decoration:none;">Stock Investing For Dummies </a></b></li>
-
-<li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-physics/blob/master/ipp(21).pdf" style="text-decoration:none;">Bogleheads' Guide to Investing </a></b></li>
-
-<li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-physics/blob/master/ipp(22).pdf" style="text-decoration:none;">The Big Short: Inside the doomsday machine</a></b></li>
-
-<li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-physics/blob/master/ipp(23).pdf" style="text-decoration:none;">What Works on Wall Street</a></b></li>
-
-<li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-physics/blob/master/ipp(24).pdf" style="text-decoration:none;">MONEY Master the Game: 7 Simple Steps to Financial Freedom</a></b></li>
-
-<li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-physics/blob/master/ipp(25).pdf" style="text-decoration:none;">Principles: Life and Work </a></b></li>
 
 
 
