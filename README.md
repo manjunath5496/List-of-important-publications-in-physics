@@ -155,7 +155,11 @@ Molecular Dynamics</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-physics/blob/master/ipp(73).pdf" style="text-decoration:none;">On the Various Forces of Nature and Their Relations to Each Other: A Course of Lectures Delivered Before a Juvenile Audience at the Royal Institution</a></b></li>
 
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-physics/blob/master/ipp(74).pdf" style="text-decoration:none;">Structure in the COBE differential microwave radiometer first-year maps</a></b></li> 
 
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-physics/blob/master/ipp(75).pdf" style="text-decoration:none;">Preliminary measurement of the cosmic background microwave spectrum by
+the Cosmic Background Explorer (COBE) satellite</a></b></li>
 
 
 
