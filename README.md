@@ -80,6 +80,17 @@ Required by the Molecular-Kinetic Theory of Heat</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-physics/blob/master/ipp(42).pdf" style="text-decoration:none;">The Foundation of the General Theory of Relativity</a></b></li> 
 
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-physics/blob/master/ipp(43).pdf" style="text-decoration:none;">The Mathematical Optics of Sir William Rowan Hamilton: Conical Refraction and Quaternions</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-physics/blob/master/ipp(44).pdf" style="text-decoration:none;">Micrographia: or Some Physiological Descriptions of Minute Bodies Made by Magnifying Glasses</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-physics/blob/master/ipp(45).pdf" style="text-decoration:none;">The Principia: Mathematical Principles of Natural Philosophy</a></b></li>
+                <li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-physics/blob/master/ipp(46).pdf" style="text-decoration:none;">The Theory of Systems of Rays</a></b></li>   
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-physics/blob/master/ipp(47).pdf" style="text-decoration:none;">The Wave Theory of Light</a></b></li> 
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-physics/blob/master/ipp(48).rar" style="text-decoration:none;">Classical mechanics</a></b></li> 
 
 
 
