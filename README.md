@@ -92,9 +92,30 @@ Required by the Molecular-Kinetic Theory of Heat</a></b></li>
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-physics/blob/master/ipp(48).rar" style="text-decoration:none;">Classical mechanics</a></b></li> 
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-physics/blob/master/ipp(49).pdf" style="text-decoration:none;">An Experimental Investigation of the Circumstances Which Determine Whether the Motion
+of Water Shall Be Direct or Sinuous, and of the Law of Resistance in Parallel Channels</a></b></li> 
 
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-physics/blob/master/ipp(50).pdf" style="text-decoration:none;">On the Theories of the Internal friction of Fluids in Motion, and of the Equilibrium and Motion of Elastic Solids</a></b></li> 
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-physics/blob/master/ipp(51).pdf" style="text-decoration:none;">The Positive Electron</a></b></li> 
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-physics/blob/master/ipp(52).pdf" style="text-decoration:none;">The Local Structure of Turbulence in Incompressible Viscous Fluid for Very Large Reynolds
+Numbers</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-physics/blob/master/ipp(53).pdf" style="text-decoration:none;">On invariant curves of area-preserving mapping of an annulus, Matematika, 1962, Volume 6, Issue 5, 51–68</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-physics/blob/master/ipp(54).pdf" style="text-decoration:none;">The wave nature of the electron</a></b></li>
+                <li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-physics/blob/master/ipp(55).pdf" style="text-decoration:none;">On the Theory of Quanta</a></b></li>   
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-physics/blob/master/ipp(56).pdf" style="text-decoration:none;">The molecular scattering of light</a></b></li> 
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-physics/blob/master/ipp(57).pdf" style="text-decoration:none;">A new radiation</a></b></li> 
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-physics/blob/master/ipp(58).pdf" style="text-decoration:none;">On Stars, Their Evolution and Their Stability</a></b></li> 
 
 
 </ul>
