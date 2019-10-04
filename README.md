@@ -23,11 +23,13 @@
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-physics/blob/master/ipp(13).pdf" style="text-decoration:none;">Quantisierung als Eigenwertproblem </a></b></li>
 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-physics/blob/master/ipp(14).pdf" style="text-decoration:none;">Theory of the Alternating-Gradient Synchrotron</a></b></li>                                
+
 <li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-physics/blob/master/ipp(15).pdf" style="text-decoration:none;">Second Essay on a General Method in Dynamics</a></b></li>
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-physics/blob/master/ipp(16).pdf" style="text-decoration:none;">Statistical methods In neutron diffraction</a></b></li>
  <li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-physics/blob/master/ipp(17).pdf" style="text-decoration:none;">The Acceleration of Electrons by Magnetic Induction </a></b></li>
-                <li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-physics/blob/master/ipp(14).pdf" style="text-decoration:none;">Theory of the Alternating-Gradient Synchrotron</a></b></li>                                
+               
                                 
  <li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-physics/blob/master/ipp(18).pdf" style="text-decoration:none;"> The Apparent Existence of Easily Deflectable Positives</a></b></li>
   
@@ -56,9 +58,29 @@ Intermediate Between the Proton and Electron</a></b></li>
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-physics/blob/master/ipp(31).pdf" style="text-decoration:none;">A Theory of Electrons and Protons</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-physics/blob/master/ipp(16).pdf" style="text-decoration:none;">Statistical methods In neutron diffraction</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-physics/blob/master/ipp(17).pdf" style="text-decoration:none;">The Acceleration of Electrons by Magnetic Induction </a></b></li>
-                <li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-physics/blob/master/ipp(14).pdf" style="text-decoration:none;">Theory of the Alternating-Gradient Synchrotron</a></b></li>   
+<li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-physics/blob/master/ipp(32).pdf" style="text-decoration:none;">Conservation of Isotopic Spin and Isotopic Gauge Invariance</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-physics/blob/master/ipp(33).pdf" style="text-decoration:none;">The Mathematical Theory of Relativity </a></b></li>
+                <li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-physics/blob/master/ipp(34).pdf" style="text-decoration:none;">Ultraviolet Behavior of Non-Abelian Gauge Theories</a></b></li>   
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-physics/blob/master/ipp(35).pdf" style="text-decoration:none;">Reliable Perturbative Results for Strong Interactions? </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-physics/blob/master/ipp(36).pdf" style="text-decoration:none;">Reflections on the Motive Power of Heat</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-physics/blob/master/ipp(37).pdf" style="text-decoration:none;">Renormalization Group and Critical Phenomena</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-physics/blob/master/ipp(38).pdf" style="text-decoration:none;">Scaling laws for Ising models near T<sub>c</sub> </a></b></li>
+                <li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-physics/blob/master/ipp(39).pdf" style="text-decoration:none;">On the Motion of Small Particles Suspended in Liquids at Rest
+Required by the Molecular-Kinetic Theory of Heat</a></b></li>   
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-physics/blob/master/ipp(40).pdf" style="text-decoration:none;">Elementary Principles in Statistical Mechanics</a></b></li> 
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-physics/blob/master/ipp(41).pdf" style="text-decoration:none;">On the Equilibrium of Heterogeneous Substances</a></b></li> 
+
+
+
+
+
 
 
 
