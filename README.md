@@ -77,7 +77,7 @@ Required by the Molecular-Kinetic Theory of Heat</a></b></li>
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-physics/blob/master/ipp(41).pdf" style="text-decoration:none;">On the Equilibrium of Heterogeneous Substances</a></b></li> 
 
-
+<li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-physics/blob/master/ipp(42).pdf" style="text-decoration:none;">The Foundation of the General Theory of Relativity</a></b></li> 
 
 
 
