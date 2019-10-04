@@ -117,5 +117,17 @@ Numbers</a></b></li>
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-physics/blob/master/ipp(58).pdf" style="text-decoration:none;">On Stars, Their Evolution and Their Stability</a></b></li> 
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-physics/blob/master/ipp(59).pdf" style="text-decoration:none;">Unified Approach for Molecular Dynamics and Density-Functional Theory</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-physics/blob/master/ipp(60).pdf" style="text-decoration:none;">Correlations in the Motion of Atoms in Liquid Argon</a></b></li>
+                <li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-physics/blob/master/ipp(61).pdf" style="text-decoration:none;">Efficient and Accurate Car-Parrinello-like Approach to Born-Oppenheimer
+Molecular Dynamics</a></b></li>   
 
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-physics/blob/master/ipp(62).pdf" style="text-decoration:none;">Studies of non Linear Problems</a></b></li> 
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-physics/blob/master/ipp(63).pdf" style="text-decoration:none;">Studies in Molecular Dynamics. I. General Method</a></b></li> 
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-physics/blob/master/ipp(64).pdf" style="text-decoration:none;">On the Application to Dynamics of a General Mathematical Method previously applied to Optics</a></b></li>
 </ul>
