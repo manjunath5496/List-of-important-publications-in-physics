@@ -29,7 +29,36 @@
  <li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-physics/blob/master/ipp(17).pdf" style="text-decoration:none;">The Acceleration of Electrons by Magnetic Induction </a></b></li>
                 <li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-physics/blob/master/ipp(14).pdf" style="text-decoration:none;">Theory of the Alternating-Gradient Synchrotron</a></b></li>                                
                                 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-physics/blob/master/ipp(18).pdf" style="text-decoration:none;"> The Apparent Existence of Easily Deflectable Positives</a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-physics/blob/master/ipp(19).pdf" style="text-decoration:none;">The structure of the atom</a></b></li>  
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-physics/blob/master/ipp(20).pdf" style="text-decoration:none;">Possible Existence of a Neutron </a></b></li>
+                               
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-physics/blob/master/ipp(21).pdf" style="text-decoration:none;">The Existence of a Neutron </a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-physics/blob/master/ipp(22).pdf" style="text-decoration:none;">Does the Inertia of a Body Depend upon its Energy-Content?</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-physics/blob/master/ipp(23).pdf" style="text-decoration:none;">Investigations on the theory of the Brownian movement
+ </a></b></li>
+                <li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-physics/blob/master/ipp(24).pdf" style="text-decoration:none;">New Evidence for the Existence of a Particle of Mass
+Intermediate Between the Proton and Electron</a></b></li>                                
+                                
+<li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-physics/blob/master/ipp(25).pdf" style="text-decoration:none;">Experimental Test of Parity Conservation in Beta Decay</a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-physics/blob/master/ipp(26).pdf" style="text-decoration:none;">On Physical Lines of Force</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-physics/blob/master/ipp(27).rar" style="text-decoration:none;">Opticks: or, A Treatise of the Reflexions, Refractions, Inflexions and Colours of Light </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-physics/blob/master/ipp(28).pdf" style="text-decoration:none;">An Essay on the Application of mathematical Analysis to the theories of Electricity and Magnetism </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-physics/blob/master/ipp(29).pdf" style="text-decoration:none;">The Quantum Theory of the Electron</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-physics/blob/master/ipp(30).pdf" style="text-decoration:none;">Bakerian Lecture. Nuclear Constitution of Atoms </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-physics/blob/master/ipp(31).pdf" style="text-decoration:none;">A Theory of Electrons and Protons</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-physics/blob/master/ipp(16).pdf" style="text-decoration:none;">Statistical methods In neutron diffraction</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-physics/blob/master/ipp(17).pdf" style="text-decoration:none;">The Acceleration of Electrons by Magnetic Induction </a></b></li>
+                <li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-physics/blob/master/ipp(14).pdf" style="text-decoration:none;">Theory of the Alternating-Gradient Synchrotron</a></b></li>   
 
 
 
