@@ -130,4 +130,38 @@ Molecular Dynamics</a></b></li>
 
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-physics/blob/master/ipp(64).pdf" style="text-decoration:none;">On the Application to Dynamics of a General Mathematical Method previously applied to Optics</a></b></li>
+
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-physics/blob/master/ipp(65).pdf" style="text-decoration:none;">Calibrator Design for the COBE Far-Infrared Absolute Spectrophotometer (FIRAS)</a></b></li> 
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-physics/blob/master/ipp(66).pdf" style="text-decoration:none;">On the Various Forces of Nature</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-physics/blob/master/ipp(67).pdf" style="text-decoration:none;">The Effect of Magnetisation on the Nature of Light Emitted by a Substance</a></b></li>
+                <li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-physics/blob/master/ipp(68).pdf" style="text-decoration:none;">The high-frequency spectra of the elements</a></b></li>   
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-physics/blob/master/ipp(69).pdf" style="text-decoration:none;">On the influence of magnetism on the nature of the light emitted by a substance</a></b></li> 
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-physics/blob/master/ipp(70).pdf" style="text-decoration:none;">4-Year COBE DMR Cosmic Microwave Background Observations: Maps and Basic Results</a></b></li> 
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-physics/blob/master/ipp(71).pdf" style="text-decoration:none;">Violation of CP invariance, C asymmetry, and baryon asymmetry of the universe</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-physics/blob/master/ipp(72).pdf" style="text-decoration:none;">Michael Faraday's The Chemical History of a Candle</a></b></li> 
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-physics/blob/master/ipp(73).pdf" style="text-decoration:none;">On the Various Forces of Nature and Their Relations to Each Other: A Course of Lectures Delivered Before a Juvenile Audience at the Royal Institution</a></b></li>
+
+
+
+
+
+
+
+
+
+
+
 </ul>
